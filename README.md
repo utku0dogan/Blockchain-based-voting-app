@@ -79,7 +79,7 @@ Hakkında ekranı ile uygulamamızı tanıtmaktayız. Uygulamamızın sahip oldu
 
 blockchain hackathon'u için yapılmış bir projedir. 
 
-Ekip
+## Ekip
 
--Ferhat Eroğlu
--Utku Doğan
+**Ferhat Eroğlu
+Utku Doğan**

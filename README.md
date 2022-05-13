@@ -81,5 +81,5 @@ blockchain hackathon'u için yapılmış bir projedir.
 
 ## Ekip
 
-**Ferhat Eroğlu
-Utku Doğan**
+**Ferhat Eroğlu,
+Utku Doğan, Emircan Çetin**
